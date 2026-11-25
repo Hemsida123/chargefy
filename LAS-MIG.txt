@@ -1,0 +1,15 @@
+Chargefy – färdig webbplats, 25 november 2026
+
+Ladda upp ALLA filer i den här mappen till GitHub eller webbhotellets public_html. Behåll mappen assets och alla filnamn. index.html är startsidan. Ingen installation eller byggprocess behövs.
+
+GitHub Pages: ladda upp mappens innehåll i repositoryts rot och välj Settings > Pages > Deploy from a branch. Relativa länkar och bilder fungerar även under en undermapp.
+
+Innehåll: 146 HTML-sidor, lokala bilder och typsnitt, mobilmeny, telefon- och mejllänkar, sidtitlar, beskrivningar, strukturerade uppgifter, sitemap.xml och robots.txt.
+
+SEO-adresserna är inställda för https://chargefy.nu. Om en annan domän ska användas behöver canonical, Open Graph, schema, sitemap.xml och robots.txt ändras före publicering. SEO ger inga garantier om placering i Google.
+
+Kontakt sker via telefon och e-post. Mejllänkar öppnar besökarens mejlprogram. Inga påhittade skickat-bekräftelser eller okopplade formulär används.
+
+124 unika offentligt listade katalogprodukter och 6 batterisystem. Två dubbletter från originalbutiken är sammanförda. Köp och konfigurering går till Chargefys befintliga butik; betalning och beställning hanteras där. Produkter, lagerstatus och priser är statiska ögonblicksbilder från 25 november 2026 och behöver hållas uppdaterade. Baspriserna inkluderar inte villkorad Greenely-rabatt. Avdrag kräver att villkoren är uppfyllda.
+
+Trustpilot 4,5/5 av 231 omdömen kontrollerat 25 november 2026. Citat är Google-utdrag ur företagets befintliga widget och märks separat.
